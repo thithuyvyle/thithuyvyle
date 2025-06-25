@@ -4,7 +4,7 @@ Welcome to my profile! I'm in a career transition, currently learning how to cod
 Thanks for visiting and I'd love to connect 💬!
 
 - 🌱 Have learned: HTML / CSS / JavaScript
-- 🔭 In progress: Angular
+- 🔭 In progress: Angular / Angular Material/ Tailwind CSS
 
  In the repositories, you'll mostly find school projects and here is my portfolio: https://thithuyvyle.github.io/portfolio/ 
 
