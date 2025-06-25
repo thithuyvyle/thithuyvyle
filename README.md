@@ -6,7 +6,7 @@ Thanks for visiting and I'd love to connect 💬!
 - 🌱 Have learned: HTML / CSS / JavaScript
 - 🔭 In progress: Angular
 
- In the repositories, you'll mostly find school projects
+ In the repositories, you'll mostly find school projects and here is my portfolio: https://thithuyvyle.github.io/portfolio/ 
 
 <!--
 Here are some ideas to get you started:
