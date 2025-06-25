@@ -1,10 +1,12 @@
 Hi I'm Thi Thuy Vy ! 👋
 
 Welcome to my profile! I'm in a career transition, currently learning how to code.
-Thanks for visiting and I'd love to connect!
+Thanks for visiting and I'd love to connect 💬!
 
-- 🌱 I have learned HTML / CSS / JavaScript
-- 🔭 I’m currently working on Angular
+- 🌱 Have learned: HTML / CSS / JavaScript
+- 🔭 In progress: Angular
+
+ 
 
 <!--
 Here are some ideas to get you started:
