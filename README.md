@@ -5,6 +5,7 @@ Thanks for visiting and I'd love to connect 💬!
 
 - 🌱 Have learned: HTML / CSS / JavaScript
 - 🔭 In progress: Angular / Angular Material/ Tailwind CSS
+- 👯 Soon: Java / Spring Boot
 
  In the repositories, you'll mostly find school projects and here is my portfolio: https://thithuyvyle.github.io/portfolio/ 
 
